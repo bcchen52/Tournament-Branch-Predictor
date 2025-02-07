@@ -4,9 +4,9 @@ This project uses C++ to simulate bimodal, gshare, and tournament branch predict
 This project is from Binghamton University’s CS 320.
 
 # Table of contents
-- [Specifics] (#specifics)
-- [How To Use] (#how-to-use)
-- [Files] (#files)
+- [Specifics](#specifics)
+- [How To Use](#how-to-use)
+- [Files](#files)
 
 # Specifics
 Bimodal branch predictors are simulated with 1-3 bit counter configurations and 2, 3, 5, 6, 8, 10, and 12 bit indexes. 
