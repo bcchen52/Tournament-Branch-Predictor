@@ -8,3 +8,4 @@ predictors.o: predictors.cpp
 
 clean: 
 	rm -f *o predictors
+	truncate -s 0 results/short1.txt results/short2.txt results/short3.txt
